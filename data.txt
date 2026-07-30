@@ -1,0 +1,9 @@
+Waqar Kabir is a Senior Full Stack .NET Developer with over eight years of professional software development experience.
+Waqar Kabir specializes in building enterprise web applications using Microsoft technologies.
+Waqar Kabir has been professionally developing .NET applications since November 2017.
+Waqar Kabir develops scalable web applications using ASP.NET Core MVC, Blazor, and React.
+Waqar Kabir has extensive experience with C#, ASP.NET Core, Entity Framework Core, LINQ, and SQL Server.
+Waqar Kabir is experienced with Oracle Database, SQL Server, and MongoDB.
+Waqar Kabir builds REST APIs and integrates third-party services into web applications.
+Waqar Kabir develops responsive user interfaces using HTML5, CSS3, Bootstrap, JavaScript, jQuery, and React.
+Waqar Kabir has experience developing Blazor Server and Blazor WebAssembly applications.
